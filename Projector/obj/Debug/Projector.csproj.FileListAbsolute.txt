@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Projector\bin\Debug\Projector.exe.config
+C:\Users\user\source\repos\Projector\bin\Debug\Projector.exe
+C:\Users\user\source\repos\Projector\bin\Debug\Projector.pdb
+C:\Users\user\source\repos\Projector\obj\Debug\Projector.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Projector\obj\Debug\Projector.Form1.resources
+C:\Users\user\source\repos\Projector\obj\Debug\Projector.Properties.Resources.resources
+C:\Users\user\source\repos\Projector\obj\Debug\Projector.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Projector\obj\Debug\Projector.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projector\obj\Debug\Projector.exe
+C:\Users\user\source\repos\Projector\obj\Debug\Projector.pdb
